@@ -16,3 +16,5 @@ if "이정희" in aa.values():
     print('이정희 만세')
 else:
     print("검색은 개뿔")
+
+
